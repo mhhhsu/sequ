@@ -1,6 +1,7 @@
 
 **91Porn、MissAV、Pornhub 一站式视频导航 APP**
 下载：
+https://github.com/mhhhsu/sequ/releases/download/v1.0.0/app-release.apk
 https://github.com/mhhhsu/sequ/releases
 https://github.com/mhhhsu/sequ/blob/main/app-release.apk
 社区：https://t.me/xxsequ/15
