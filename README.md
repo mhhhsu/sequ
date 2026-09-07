@@ -1,6 +1,8 @@
 
 **91Porn、MissAV、Pornhub 一站式视频导航 APP**
-下载：https://t.me/xxsequ/15
+下载：
+https://github.com/mhhhsu/sequ/blob/main/app-release.apk
+社区：https://t.me/xxsequ/15
 一款聚合多个热门视频平台入口的导航工具，提供便捷的网站分类、搜索与访问入口，帮助用户更方便地查找和管理常用网站。
 
 APP 支持 **91Porn、MissAV、Pornhub** 等热门平台导航，并持续整理更多相关网站资源。界面简洁、分类清晰，方便用户快速找到需要的网站。
