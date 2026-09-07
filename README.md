@@ -16,8 +16,8 @@ APP 支持 **91Porn、MissAV、Pornhub** 等热门平台导航，并持续整理
 * 快速搜索与访问
 * 常用网站收藏
 * 持续更新网站导航资源
-
-下载地址：
+* 
+社群地址：
 https://t.me/xxsequ/15
 
 关键词：91Porn、MissAV、Pornhub、视频导航、网站导航、AV导航、成人网站导航、影视资源导航、导航APP
